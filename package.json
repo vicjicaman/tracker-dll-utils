@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-dll-utils",
-  "version": "1.70.2-initial-dll-dev",
+  "version": "1.70.3-initial-dll-prod",
   "mountpoint": "utils",
   "description": "Utils dlls",
   "repository": "github.com:vicjicaman/tracker-dll-utils.git",
